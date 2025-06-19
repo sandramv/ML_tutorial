@@ -1,4 +1,4 @@
-# ML_tutorial
+# Machine Learning tutorial
 
 Welcome!
 
